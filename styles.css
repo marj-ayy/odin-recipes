@@ -1,4 +1,4 @@
-body{
+body {
     background-color: lightgray;
 }
 
@@ -17,12 +17,28 @@ img {
     margin-right: auto;
 }
 
-.index-list li{
-    font-family: 'Courier New', Courier, monospace, sans-serif;
+.index-list li {
+    font-family: 'Courier New', monospace, sans-serif;
     font-size: 20px;
     color: white;
 }
 
 a {
     color: #000000;
+}
+
+h3 {
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+.recipe-list li, ol {
+    font-size: 20px;
+    font-family:'Courier New', monospace, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family:'Courier New', monospace, sans-serif;
 }
