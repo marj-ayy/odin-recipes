@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: "Courier New", monospace, sans-serif;
+    text-decoration: underline;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.index-list li{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+a {
+    color: #000000;
+}
